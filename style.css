@@ -110,12 +110,12 @@ button:hover {
     cursor:pointer;
 }
 
-.error #form_error {
+.error #form_text {
     border: 2px solid #ffa9a5;
     background: #ffe8e5;
     color: hsl(4, 100%, 67%);
 }
-.error #form_error::placeholder {
+.error #form_text::placeholder {
     color: #ffa9a5;
 }
 
